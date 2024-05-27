@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 26 May 2024 21:37:39 at https://nest-frontend-v6.netlify.app/index-6 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -%l "en, *" https://nest-frontend-v6.netlify.app/index-6 -O1 "C:\Users\user\Downloads\ecommerce for affliate" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:39:44	Error: 	"Not Found" (404) at link https://nest-frontend-v6.netlify.app/page-about.htlm (from https://nest-frontend-v6.netlify.app/index-6)
+21:39:45	Error: 	"Not Found" (404) at link https://nest-frontend-v6.netlify.app/shop-order.html (from https://nest-frontend-v6.netlify.app/index-6)
+21:41:25	Error: 	"Not Found" (404) at link https://nest-frontend-v6.netlify.app/assets/imgs/favicon.svg (from https://nest-frontend-v6.netlify.app/assets/css/main.css?v=6.0)
+21:41:25	Error: 	"Not Found" (404) at link https://nest-frontend-v6.netlify.app/assets/imgs/theme/btn-brush-bg-1.png (from https://nest-frontend-v6.netlify.app/assets/css/main.css?v=6.0)
+21:41:25	Error: 	"Not Found" (404) at link https://nest-frontend-v6.netlify.app/assets/imgs/theme/btn-brush-bg-2.png (from https://nest-frontend-v6.netlify.app/assets/css/main.css?v=6.0)
+21:41:25	Error: 	"Not Found" (404) at link https://nest-frontend-v6.netlify.app/assets/imgs/theme/btn-brush-bg-3.png (from https://nest-frontend-v6.netlify.app/assets/css/main.css?v=6.0)
+21:41:25	Error: 	"Not Found" (404) at link https://nest-frontend-v6.netlify.app/shop-product-detail.html (from https://nest-frontend-v6.netlify.app/shop-product-right)
+21:41:26	Error: 	"Not Found" (404) at link https://nest-frontend-v6.netlify.app/author.html (from https://nest-frontend-v6.netlify.app/blog-post-left)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 47 seconds : 330 links scanned, 321 files written (35574272 bytes overall) [28619492 bytes received at 126077 bytes/sec], 8319922 bytes transferred using HTTP compression in 148 files, ratio 14%, 1.0 requests per connection
+(8 errors, 0 warnings, 0 messages)
